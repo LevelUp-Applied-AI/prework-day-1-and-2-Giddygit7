@@ -1,4 +1,4 @@
-# Device Check — [Your Name]
+# Device Check — [Ibrahim Almomani]
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [2026-02-23]
@@ -44,7 +44,7 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** [Confirmed via System Settings]
 
 ---
 
