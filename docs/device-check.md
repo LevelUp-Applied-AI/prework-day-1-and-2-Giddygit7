@@ -5,16 +5,17 @@
 **GitHub username:** [Giddygit7]
 
 ---
+Processor	Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz, 2301 Mhz, 2 Core(s), 4 Logical Processor(s)
 
 ## System Specifications
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
+| Operating System | (Microsoft Windows 10 Pro) |
+| OS Build / 10.0.19045 Build 19045 | |
+| RAM | (8 GB) |
+| CPU Model | (Intel(R)  i5-4200U ) |
+| CPU Cores | (Core(TM))|
 | Free Disk Space | (e.g., 45 GB free) |
 | Internet Speed (Download) | (from speedtest.net — Mbps) |
 
