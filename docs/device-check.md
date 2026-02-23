@@ -15,8 +15,8 @@
 | RAM | (8 GB) |
 | CPU Model | (Intel(R)  i5-4200U ) |
 | CPU Cores | (Core(TM))|
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (30 — Mbps) |
+| Free Disk Space | ( 955 GB ) |
+| Internet Speed (Download) | (30 Mbps) |
 
 ---
 
