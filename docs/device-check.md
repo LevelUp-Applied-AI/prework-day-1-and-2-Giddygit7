@@ -1,8 +1,8 @@
 # Device Check — [Your Name]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [1997-07-17]
+**GitHub username:** [Giddygit7]
 
 ---
 
@@ -22,15 +22,23 @@
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4f84dc8f-dc6a-44bb-9bec-fdf870203405" />
+] Screenshot: OS version
+- [<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/85e83d91-d12d-4b96-a309-ca4211f789b5" />
+ ] Screenshot: RAM and CPU details
+- [ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8bf459fa-b66f-4974-9944-42223a59b74c" />
+] Screenshot: Free disk space
+- [ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/00a68962-67c2-40d4-b51b-a5fb283ffb31" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a935aa5b-d900-410a-9ea2-4726a2297eda" />
+] Screenshot: Internet speed test result
+- [<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7641b3c5-1b5e-41bd-bc96-ac3ca0145cd1" />
+ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24800d3e-ecc4-4477-ad20-c7cb1fe4f725" />
+] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb9ebb7e-67d3-4b5e-9b32-8c5da386e96e" />
+] Screenshot: `wsl --status` output
 
 ---
 
@@ -42,4 +50,4 @@
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
