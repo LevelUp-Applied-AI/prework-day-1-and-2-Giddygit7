@@ -5,19 +5,18 @@
 **GitHub username:** [Giddygit7]
 
 ---
-Processor	Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz, 2301 Mhz, 2 Core(s), 4 Logical Processor(s)
 
 ## System Specifications
 
 | Specification | Your value |
 |---------------|------------|
 | Operating System | (Microsoft Windows 10 Pro) |
-| OS Build / 10.0.19045 Build 19045 | |
+| OS Build /  | (10.0.19045 Build 19045) |
 | RAM | (8 GB) |
 | CPU Model | (Intel(R)  i5-4200U ) |
 | CPU Cores | (Core(TM))|
 | Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Internet Speed (Download) | (30 — Mbps) |
 
 ---
 
