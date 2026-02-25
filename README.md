@@ -31,7 +31,7 @@ Configure the pull request:
 
 ## About
 
-[One paragraph: who you are and what this repository is for.]
+ Nt first repoI will use it for assignment 1 and 2 
 
 ## Setup
 
